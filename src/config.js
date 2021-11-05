@@ -6,7 +6,7 @@ module.exports = {
     'Kalyan Chirla, Kalyan, Chirla, kalyanchirla, kchirla, software engineer, University of Leeds, Computer Science',
   siteUrl: 'https://kalyanchirla.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-212122552-1',
+  googleAnalyticsID: 'UA-212161210-1',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Kalyan Chirla',
   location: 'Leeds, United Kingdom',
